@@ -14,6 +14,8 @@ For some people, it is the same, but for others, it is not.
 
 
 Markdown tip #2:
+Put a space between a `#` when making a heading.
+
 Correct(`# Heading`):
 
 # Heading
