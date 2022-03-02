@@ -1,6 +1,6 @@
 # Welcome to this website!
 
-This is basically just where I'd post stuff.  *LIIIIKE...*
+This is basically just where I'd post stuff.  *Like...*
 
 Markdown tip #1:
 Never, ever, type `___HI___` and not `***HI***`  in markdown.  Although this is fine for some, there are compatibility issues.
