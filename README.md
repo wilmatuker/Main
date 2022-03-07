@@ -2,9 +2,9 @@
 
 This is basically just where I'd post stuff.
 
-![Dash Demo](URL https://dash.wilmatuker.repl.co/)
-
-Controls for Dash:
+Game demo:
+https://dash.wilmatuker.repl.co/
+Controls:
 WASD or Arrow Keys for movement
 Z for dashing
 
