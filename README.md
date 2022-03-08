@@ -9,3 +9,4 @@ WASD or Arrow Keys for movement
 Z for dashing
 
 ## Yeah, that's about it.
+[F U N](/Main/hgtv56/)
